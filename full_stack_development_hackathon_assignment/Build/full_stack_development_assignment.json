@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "SpaceShooter Game",
+"dataUrl": "full_stack_development_assignment.data.unityweb",
+"asmCodeUrl": "full_stack_development_assignment.asm.code.unityweb",
+"asmMemoryUrl": "full_stack_development_assignment.asm.memory.unityweb",
+"asmFrameworkUrl": "full_stack_development_assignment.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
